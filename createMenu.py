@@ -1,6 +1,9 @@
 
 
-
+"""
+Description:
+Creates a numbered menu string from a menuList.
+"""
 
 
 def createMenu(optionList):

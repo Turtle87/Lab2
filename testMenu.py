@@ -1,3 +1,8 @@
+"""
+Description:
+This program tests the create menu function.
+
+"""
 from createMenu import *
 def main():
     tmp = ["Option One","Option two","Option three"]
